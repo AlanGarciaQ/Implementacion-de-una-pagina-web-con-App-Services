@@ -6,7 +6,7 @@
 **Requisitos**
 - Cuenta de Azure con una suscripción activa
 - Equipo de cómputo con sistema operativo: Windows, Linux o MacOs
-- Repositorio con código de una página web en GitHub. 
+- Repositorio con código de una página web en GitHub. [Repositorio utilizado](https://github.com/AlanGarciaQ/Pagina-web) 
  
 
 **Pasos**  
@@ -39,7 +39,7 @@ En el menú de la parte de la izquierda le damos clic en la opción de centro de
 En el apartado de origen seleccionaremos la opción de GitHub, y daremos clic en el botón de autorizar. Se nos pedirá que iniciemos sesión en GitHub.  
 A continuación, llenamos los datos que nos piden:  
 Organización: Ponemos el nombre de nuestro usuario en GitHub.  
-Repositorio: El nombre del repositorio en el que esta nuestra página web. [Repositorio utilizado](https://github.com/AlanGarciaQ/Pagina-web)  
+Repositorio: El nombre del repositorio en el que esta nuestra página web.  
 Rama: Seleccionamos Main.
 
 Por último, le damos en Guardar. 
